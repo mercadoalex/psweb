@@ -2,7 +2,7 @@
 # Linux x64
 FROM alpine
 
-LABEL maintainer="nigelpoulton@hotmail.com"
+LABEL maintainer="mercadoalex@gmail.com"
 
 # Install Node and NPM
 RUN apk add --update nodejs npm curl
